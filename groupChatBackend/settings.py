@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-n8vh$ivxi)52et9g!qvv5(=c_#eht4z&g$lq)0^$4i!mz4m9e$
 DEBUG = False
 
 # ALLOWED_HOSTS = ["localhost", "192.168.0.107"]
-ALLOWED_HOSTS = ["mhosting.ipv64.net"]
+ALLOWED_HOSTS = ["groopie.ipv64.net"]
 
 
 # Application definition
